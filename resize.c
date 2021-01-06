@@ -22,6 +22,8 @@
 
 #include "tmux.h"
 
+
+
 void
 resize_window(struct window *w, u_int sx, u_int sy, int xpixel, int ypixel)
 {
